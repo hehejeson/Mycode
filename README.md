@@ -1,4 +1,2 @@
-# hello-github
-study how to use Github
-my name is hehejeson 
-this is my first time to learn how to use the github
+# 代码存放
+我的代码存放库
